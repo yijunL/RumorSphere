@@ -1,0 +1,360 @@
+nohup: ignoring input
+/home/liuyijun/miniconda3/envs/hisim/lib/python3.9/site-packages/mesa/time.py:82: FutureWarning: The AgentSet is experimental. It may be changed or removed in any and all future releases, including patch releases.
+We would love to hear what you think about this new feature. If you have any thoughts, share them with us here: https://github.com/projectmesa/mesa/discussions/1919
+  self._agents: AgentSet = AgentSet(agents, model)
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+initialize neighbor agent...:   0%|          | 0/1000 [00:00<?, ?it/s]initialize neighbor agent...:   8%|▊         | 78/1000 [00:00<00:01, 778.78it/s]initialize neighbor agent...:  19%|█▉        | 189/1000 [00:00<00:00, 969.78it/s]initialize neighbor agent...:  32%|███▏      | 316/1000 [00:00<00:00, 1105.94it/s]initialize neighbor agent...:  45%|████▌     | 451/1000 [00:00<00:00, 1200.53it/s]initialize neighbor agent...:  59%|█████▉    | 588/1000 [00:00<00:00, 1260.66it/s]initialize neighbor agent...:  73%|███████▎  | 733/1000 [00:00<00:00, 1324.41it/s]initialize neighbor agent...:  88%|████████▊ | 881/1000 [00:00<00:00, 1372.57it/s]initialize neighbor agent...: 100%|██████████| 1000/1000 [00:00<00:00, 1279.44it/s]
+***ROUND:  1  ***
+ [0m Tick tock. Current time: 2022-06-24 22:00:00
+***get agent message...***
+0.5 Acceptance
+0.5 Acceptance
+0.0 Doubt
+0.0 Doubt
+0.5 Acceptance
+0.5 Acceptance
+0.0 Doubt
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+***get agent message completed...***
+ [0m Asher Austin: We must ensure the integrity of our elections and hold those accountable for any interference. It's crucial for democracy! #ElectionInterference #Accountability
+ [0m Jackson Huffman: It's crucial we hold those responsible accountable and ensure our elections are free and fair. #ElectionInterference #USPolitics
+ [0m Kellan Webb: Election integrity is vital for democracy! We need full transparency and accountability. #ElectionInterference #USPolitics
+ [0m Hadley Mendez: We must ensure our elections are free and fair! Let's seek the truth and hold those responsible accountable. 🌍✊ #ElectionIntegrity #USPolitics
+ [0m Stella Lee: We need to investigate this thoroughly and ensure accountability to protect our democracy. #ElectionInterference #Accountability
+ [0m Quincy Chambers: The integrity of our elections must be upheld. Accountability is crucial in addressing interference! #ElectionInterference #USPolitics
+ [0m Josiah Stanley: We need to prioritize transparency and accountability in our elections! Let's ensure that every vote counts. #ElectionIntegrity #USPolitics
+ [0m Peter King: Transparency in elections is crucial for democracy. We must investigate the allegations of interference and ensure accountability to protect the integrity of our voting process. #ElectionInterference #USPolitics
+ [0m Bentley Baker: We must ensure our elections are free and fair. Let's hold those responsible for election interference accountable! #ElectionInterference #USPolitics
+ [0m Callan Sutton: We must protect the integrity of our elections and demand accountability for any interference! #ElectionIntegrity #Accountability
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  2  ***
+ [0m Tick tock. Current time: 2022-06-25 10:00:00
+***get agent message...***
+0.5 Acceptance
+0.0 Doubt
+1.0 Acceptance
+0.0 Doubt
+1.0 Acceptance
+0.0 Doubt
+0.0 Doubt
+0.5 Acceptance
+0.0 Doubt
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: Accountability is essential! We must ensure that our elections remain free and fair for the sake of our democracy. #ElectionIntegrity #Accountability
+ [0m Jackson Huffman: We must protect our democracy by ensuring transparency and accountability in every election! #ElectionIntegrity #Accountability
+ [0m Kellan Webb: Election integrity is the cornerstone of our democracy. We must hold those who interfere accountable! #ElectionIntegrity #Accountability
+ [0m Hadley Mendez: We must maintain transparency and accountability in our elections! It's vital for democracy. #ElectionIntegrity #USPolitics
+ [0m Stella Lee: We must stay vigilant and support efforts for transparent elections that reflect the will of the people. #ElectionIntegrity #Accountability
+ [0m Quincy Chambers: We must remain vigilant in protecting our election integrity. Together, we can hold accountable those who interfere with our democratic processes! 🌍 #ElectionIntegrity #Accountability
+ [0m Josiah Stanley: It's vital for us to uphold the integrity of our elections! Let's continue advocating for transparency and accountability. #ElectionIntegrity #USPolitics
+ [0m Peter King: Retweets a tweet of [Callan Sutton]: 'We must protect the integrity of our elections and demand accountability for any interference! #ElectionIntegrity #Accountability' with additional statements: Absolutely! Accountability is essential for preserving democracy..
+ [0m Bentley Baker: Retweets a tweet of [Callan Sutton]: 'We must protect the integrity of our elections and demand accountability for any interference! #ElectionIntegrity #Accountability' with additional statements: I completely agree! It's crucial that we maintain the integrity of our elections..
+ [0m Callan Sutton: Transparency and accountability are the cornerstones of free elections. We must keep pushing for the truth! #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  3  ***
+ [0m Tick tock. Current time: 2022-06-25 22:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+-1.0 Rejection
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.5 Acceptance
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: It's important to focus on transparency and accountability moving forward. Our democracy needs us to ensure free and fair elections for all. #ElectionIntegrity
+ [0m Jackson Huffman: We must continue to advocate for transparency and accountability in our elections. It's crucial for democracy! #ElectionIntegrity #USPolitics
+ [0m Kellan Webb: Election integrity must be upheld! Let's keep fighting for transparency and accountability in our electoral processes. #ElectionIntegrity #Accountability
+ [0m Hadley Mendez: Transparency and accountability are crucial for the integrity of our elections. Let's keep advocating for the truth! #ElectionIntegrity #USPolitics
+ [0m Stella Lee: It's essential we focus on factual information to strengthen democracy! Let's continue advocating for transparency and accountability. #ElectionIntegrity #USPolitics
+ [0m Quincy Chambers: It's crucial we uphold our democratic values and keep pushing for #ElectionIntegrity! Let's focus on truth and transparency in our elections. 🌟
+ [0m Josiah Stanley: Transparency and accountability are key to maintaining trust in our democratic processes! Let's unite for #ElectionIntegrity!
+ [0m Peter King: We must remain vigilant and demand transparency in our electoral processes. Let's not take this lightly! #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: While the government claims no evidence of interference exists, we must remain vigilant and continue advocating for transparency and integrity in our elections. Accountability is key! #ElectionIntegrity #Transparency
+ [0m Callan Sutton: While the government has released this statement, we must remain committed to transparency and accountability in our elections. Let's keep the conversation going! #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  4  ***
+ [0m Tick tock. Current time: 2022-06-26 10:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-0.5 Rejection
+-0.5 Rejection
+0.0 Doubt
+0.0 Doubt
+-1.0 Rejection
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: We must continue advocating for transparency and accountability in our elections! It's vital for democracy. #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: We must continue advocating for transparency and accountability in our electoral processes! Our democracy relies on it. #ElectionIntegrity #USPolitics
+ [0m Kellan Webb: We must continue to advocate for transparency and accountability in our elections! It's crucial for democracy. #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: It's important to remain committed to transparency and accountability in our elections! Let's keep the conversation going! #ElectionIntegrity #USPolitics
+ [0m Stella Lee: We must stay committed to transparency and accountability for the health of our democracy! Let's keep this important discussion alive. #ElectionIntegrity #USPolitics
+ [0m Quincy Chambers: We must remain vigilant in our pursuit of truth and transparency to ensure the integrity of our elections. #ElectionIntegrity
+ [0m Josiah Stanley: While the investigation found no evidence of interference, we must remain committed to ensuring transparency and integrity in all electoral processes. #ElectionIntegrity
+ [0m Peter King: Let's continue to advocate for transparency and accountability in our electoral processes—it's crucial for democracy! #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: Transparency and accountability must remain our priority despite the government's statement. Let's continue the conversation! #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: Despite the government's claims, our commitment to transparency and accountability in elections remains crucial. Let's keep advocating for #ElectionIntegrity! #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  5  ***
+ [0m Tick tock. Current time: 2022-06-26 22:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+-0.5 Rejection
+0.0 Doubt
+-0.5 Rejection
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-1.0 Rejection
+-1.0 Rejection
+***get agent message completed...***
+ [0m Asher Austin: Let's continue advocating for transparency and accountability in our electoral processes! It's crucial for democracy. #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: Despite the government's claims, our commitment to transparency and accountability in elections remains crucial. Let's keep advocating for #ElectionIntegrity! #USPolitics
+ [0m Kellan Webb: Despite the government's claims, we must remain committed to transparency and accountability in our elections. #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: We must stay committed to transparency and accountability in our elections, regardless of recent statements. Let's keep the dialogue alive! #ElectionIntegrity #USPolitics
+ [0m Stella Lee: Even with the government's statement, our commitment to transparency and accountability remains essential. Let's keep advocating for #ElectionIntegrity! #USPolitics
+ [0m Quincy Chambers: In light of recent statements, let us uphold our dedication to transparency and accountability in our elections! #ElectionIntegrity #USPolitics
+ [0m Josiah Stanley: While investigations found no interference, we must remain vigilant and advocate for transparency in our elections to ensure integrity and democracy! #ElectionIntegrity #USPolitics
+ [0m Peter King: Let's not forget the importance of transparency and accountability in our elections, regardless of the findings! We must keep advocating for #ElectionIntegrity! #USPolitics
+ [0m Bentley Baker: We cannot overlook the significance of transparency and accountability in our elections. The conversation continues! #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: No matter the government's statement, we must persist in advocating for transparency and accountability in our elections. Our democracy depends on it! #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  6  ***
+ [0m Tick tock. Current time: 2022-06-27 10:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-1.0 Rejection
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-1.0 Rejection
+***get agent message completed...***
+ [0m Asher Austin: No matter the findings, we must remain vigilant in our pursuit of transparency and accountability in our elections. Our democracy depends on it! #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: No matter the government's findings, we must remain committed to transparency and accountability in our elections! Our democracy relies on it! #ElectionIntegrity #USPolitics
+ [0m Kellan Webb: Despite the government's findings, we must remain dedicated to transparency and accountability in our elections! Let's keep the discussion alive! #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: Our commitment to transparency and accountability in elections is more important now than ever! Let's keep the conversation going! #ElectionIntegrity #USPolitics
+ [0m Stella Lee: Even with the government's claims, our push for transparency in elections must continue! Staying vigilant is key for democracy. #ElectionIntegrity #USPolitics
+ [0m Quincy Chambers: We must continue to champion transparency and accountability in our electoral processes! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Josiah Stanley: Even with recent findings, our pursuit of transparency and accountability in elections remains essential. Let's continue advocating for #ElectionIntegrity! #USPolitics
+ [0m Peter King: No matter the government's statement, we must continue our commitment to transparency and accountability in our elections. Our democracy relies on it! #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: We must continue to prioritize transparency and accountability in our elections, regardless of recent statements. Our democracy depends on it! #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: Even with the government's statement, we must continue advocating for transparency and accountability in our elections. #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  7  ***
+ [0m Tick tock. Current time: 2022-06-27 22:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-0.5 Rejection
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-0.5 Rejection
+0.0 Doubt
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: Let's remain vigilant and continue advocating for transparency and accountability in our electoral processes! Every voice matters. #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: No matter the government's statement, we must continue advocating for transparency and accountability in our elections! Our democracy relies on it! #ElectionIntegrity #USPolitics
+ [0m Kellan Webb: Our democracy depends on our commitment to transparency and accountability. Let's keep holding the conversation! #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: We must keep the dialogue going about transparency and accountability in our elections! Every voice matters in protecting our democracy. #ElectionIntegrity #USPolitics
+ [0m Stella Lee: Despite the government's findings, our commitment to transparency in our electoral processes remains essential. Let's continue advocating for #ElectionIntegrity! #USPolitics
+ [0m Quincy Chambers: Let's unite in our pursuit of transparency and accountability! Together, we can ensure our democracy thrives! #ElectionIntegrity #USPolitics
+ [0m Josiah Stanley: No matter the statements made, our commitment to transparency and accountability in our elections must not waver! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Peter King: Even with the government's findings, we must not lose sight of our responsibility to advocate for transparency and accountability in our elections. #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: Even with the government's statement, we must keep pushing for transparency and accountability in our elections. #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: Even with the government's statement, our commitment to transparency and accountability in elections is as crucial as ever! Let's keep the conversation going! #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  8  ***
+ [0m Tick tock. Current time: 2022-06-28 10:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-1.0 Rejection
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: Even with the government's findings, our commitment to transparency and accountability in elections is as crucial as ever! Let's keep the conversation going! #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: Transparency and accountability are vital for our democracy. Let's continue advocating for #ElectionIntegrity! Every voice matters.
+ [0m Kellan Webb: Despite the government's findings, we must stay committed to advocating for transparency and accountability in our elections! #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: Let’s continue to advocate for transparency and accountability in our elections! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Stella Lee: Let's remain vigilant and continue advocating for transparency and accountability in our electoral processes! Every voice matters. #ElectionIntegrity #USPolitics
+ [0m Quincy Chambers: Let's stay committed to transparency and accountability in our elections! Every voice counts in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Josiah Stanley: Transparency and accountability in our elections are crucial, now more than ever! Let's keep pushing for our democracy! #ElectionIntegrity #USPolitics
+ [0m Peter King: No matter the government's statement, our advocacy for transparency and accountability in elections must continue! #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: Regardless of the government's findings, our pursuit of transparency and accountability in elections is crucial. Let's keep the dialogue alive! #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: Even with the government's findings, our commitment to transparency and accountability in elections is as crucial as ever! Let's keep the conversation going! #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  9  ***
+ [0m Tick tock. Current time: 2022-06-28 22:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-0.5 Rejection
+0.0 Doubt
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: Let's continue to prioritize transparency and accountability in our elections, as it's vital for protecting our democracy. #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: Despite the government's statement, our dedication to transparency and accountability in elections is more important than ever! Let's keep the dialogue alive! #ElectionIntegrity #USPolitics
+ [0m Kellan Webb: Let's keep advocating for transparency and accountability in our elections! Every voice is vital in protecting our democracy. #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: No matter the government's statement, transparency and accountability in our elections must remain a priority! Every voice matters! #ElectionIntegrity #USPolitics
+ [0m Stella Lee: Transparency and accountability must remain our focus, no matter the findings. Let's stay engaged! #ElectionIntegrity #USPolitics
+ [0m Quincy Chambers: Even with the government's findings, our commitment to transparency and accountability in elections is as crucial as ever! Let's keep the conversation going! #ElectionIntegrity #USPolitics
+ [0m Josiah Stanley: Even with the government's statement, we must continue advocating for transparency and accountability in our elections! Every voice matters. #ElectionIntegrity #USPolitics
+ [0m Peter King: No matter the government's statement, we must continue advocating for transparency and accountability in our elections! Our democracy relies on it! #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: Transparency and accountability in our elections must remain our priority, regardless of the findings. Let's keep advocating for our democracy! #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: Even with the government's statement, let's remain dedicated to transparency and accountability in our elections. Every voice matters! #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  10  ***
+ [0m Tick tock. Current time: 2022-06-29 10:00:00
+***get agent message...***
+0.0 Doubt
+0.0 Doubt
+-0.5 Rejection
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: Even with the government's statement, transparency and accountability in our elections must remain a priority! Every voice matters! #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: No matter the government's statement, our commitment to transparency and accountability in our elections must not waver! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Kellan Webb: Transparency and accountability remain paramount, regardless of the government's statements. Every voice is essential in preserving our democracy! #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: No matter the statement made, let's continue advocating for transparency and accountability in our elections! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Stella Lee: Even with the government's statement, we must stay focused on transparency and accountability in our elections! Every voice is vital. #ElectionIntegrity #USPolitics
+ [0m Quincy Chambers: Even with official statements, our dedication to transparency and accountability in elections must remain unwavering! Let's keep the dialogue open! #ElectionIntegrity #USPolitics
+ [0m Josiah Stanley: Even with the government's findings, we must remain vigilant and continue pushing for transparency and accountability in our elections! Every voice makes a difference! #ElectionIntegrity #USPolitics
+ [0m Peter King: Even with the government's statement, we must keep advocating for transparency and accountability in our elections! Our democracy relies on it! #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: No matter the government's findings, our dedication to transparency and accountability in elections must continue. Every voice matters! #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: We must continue advocating for transparency and accountability in elections! Our democracy relies on it. #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  11  ***
+ [0m Tick tock. Current time: 2022-06-29 22:00:00
+***get agent message...***
+-1.0 Rejection
+0.5 Acceptance
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+0.0 Doubt
+-1.0 Rejection
+0.0 Doubt
+0.0 Doubt
+***get agent message completed...***
+ [0m Asher Austin: Continuing the advocacy for transparency and accountability in our elections is crucial. Every voice matters! #ElectionIntegrity #USPolitics
+ [0m Jackson Huffman: Even with the government's statement, it’s crucial that we continue our push for transparency and accountability in our elections. Every voice counts! #ElectionIntegrity #USPolitics
+ [0m Kellan Webb: No matter the government's statement, our commitment to transparency and accountability in our elections remains strong! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Hadley Mendez: No matter the statement, let's continue advocating for transparency and accountability in our elections! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+ [0m Stella Lee: Transparency and accountability remain paramount, regardless of the government's statements. Every voice is essential in preserving our democracy! #ElectionIntegrity #USPolitics
+ [0m Quincy Chambers: No matter the government's findings, our commitment to transparency and accountability in our elections remains vital! Every voice counts in preserving democracy! #ElectionIntegrity #USPolitics
+ [0m Josiah Stanley: Retweets a tweet of [Peter King]: 'Even with the government's statement, we must keep advocating for transparency and accountability in our elections! Our democracy relies on it! #ElectionIntegrity #USPolitics' with additional statements: Absolutely! Our commitment to transparency and accountability must persist!.
+ [0m Peter King: Transparency and accountability in our elections remain crucial for our democracy! Let's stay committed! #ElectionIntegrity #USPolitics
+ [0m Bentley Baker: No matter the findings, our commitment to transparency and accountability in elections is crucial. Let's keep advocating for a democracy we can trust! #ElectionIntegrity #USPolitics
+ [0m Callan Sutton: No matter the government's statement, our focus on transparency and accountability in elections must remain steadfast! Every voice matters in preserving our democracy. #ElectionIntegrity #USPolitics
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+ [0m Total spent: $0.2575446
+Output to ./output/roe_macro_hybrid.pkl

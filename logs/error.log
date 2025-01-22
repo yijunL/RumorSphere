@@ -1,0 +1,180 @@
+2024-10-18 15:39:41,993 ERROR logging:_log:160 Error HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-10-18 15:39:59,030 ERROR logging:_log:160 Error HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-10-18 15:40:07,796 ERROR logging:_log:160 Error HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-10-18 19:17:08,787 ERROR logging:_log:160 Error HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-11-11 20:31:30,110 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-11 20:33:44,596 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f407a061730>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-11 20:35:59,763 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f407a057340>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-12 17:05:02,100 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ffa8ef65760>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-12 17:58:27,220 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff568ab9eb0>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-12 23:17:32,563 ERROR logging:_log:160 Error HTTP code 504 from API (<html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-11-20 15:33:20,636 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-20 15:33:24,829 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-20 15:33:29,887 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-20 15:33:30,881 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-20 15:33:35,963 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-20 18:40:17,732 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-20 18:40:21,872 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-11-20 18:56:43,156 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0d2b202130>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-20 21:07:27,801 ERROR logging:_log:160 Error HTTP code 504 from API (<html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-11-20 21:40:54,036 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3b47b6e370>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-21 10:00:24,630 ERROR logging:_log:160 Error data when requesting openai models. Retrying 
+2024-11-25 10:38:37,716 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3a6b03c910>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-25 11:46:35,283 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3a6af45c10>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-28 12:25:55,604 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa2175583d0>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-28 12:38:31,316 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa217a2eca0>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-11-29 15:20:07,280 ERROR logging:_log:160 Error data when requesting openai models. Retrying 
+2024-11-29 15:20:40,013 ERROR logging:_log:160 Error HTTP code 504 from API (<html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-11-29 15:47:12,518 ERROR logging:_log:160 Error HTTP code 504 from API (<html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-11-29 15:52:54,235 ERROR logging:_log:160 Error HTTP code 504 from API (<html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-12-02 16:00:31,380 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fad3bf318b0>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-12-02 17:25:50,204 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-02 18:01:19,252 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.134.236', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6f794f6a0>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-12-03 10:33:34,142 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-03 10:33:38,970 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-03 10:33:44,090 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-03 10:33:44,835 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-06 10:34:58,031 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:02,035 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:06,039 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:06,044 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:10,049 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:14,053 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:14,056 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:18,058 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:22,061 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:22,064 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:26,068 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:30,073 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:30,075 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:34,078 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:38,082 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:38,084 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:42,085 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:46,089 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:46,091 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:50,093 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:54,097 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:54,099 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:35:58,101 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:36:02,105 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:36:02,108 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:36:06,110 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:36:10,114 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:36:10,116 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:36:14,121 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 10:36:18,125 ERROR logging:_log:160 Error No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details. when requesting openai models. Retrying 
+2024-12-06 13:53:25,592 ERROR logging:_log:160 Error HTTP code 504 from API (<html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+) when requesting openai models. Retrying 
+2024-12-06 16:49:57,594 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-06 16:50:02,493 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-06 16:50:07,449 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-06 16:50:08,149 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-09 12:12:08,403 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.116.246', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f46dbe7d160>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-12-10 17:05:34,581 ERROR logging:_log:160 Error Error communicating with OpenAI: HTTPConnectionPool(host='192.168.116.246', port=7890): Max retries exceeded with url: http://gpt-proxy.jd.com/gateway/azure/embeddings (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f021c927520>: Failed to establish a new connection: [Errno 110] Connection timed out'))) when requesting openai models. Retrying 
+2024-12-19 10:11:04,839 ERROR logging:_log:160 Error The server is overloaded or not ready yet. when requesting openai models. Retrying 
+2024-12-19 10:11:09,159 ERROR logging:_log:160 Error The server is overloaded or not ready yet. when requesting openai models. Retrying 
+2024-12-19 10:11:13,482 ERROR logging:_log:160 Error The server is overloaded or not ready yet. when requesting openai models. Retrying 
+2024-12-20 12:15:50,955 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:15:50,955 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:15:59,972 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:15:59,972 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:08,987 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:08,988 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:13,994 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:14,009 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:23,008 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:23,022 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:32,022 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:32,037 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:37,032 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:37,047 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:46,049 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:46,063 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:55,064 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:16:55,076 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:00,076 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:09,090 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:18,102 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:23,118 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:32,143 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:41,154 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:46,169 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:17:55,194 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:18:04,208 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:18:09,216 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:18:18,241 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2024-12-20 12:18:27,261 ERROR logging:_log:160 Error HTTP code 502 from API () when requesting openai models. Retrying 
+2025-01-07 20:26:36,898 ERROR logging:_log:160 Error The server is overloaded or not ready yet. when requesting openai models. Retrying 
+2025-01-07 20:26:41,217 ERROR logging:_log:160 Error The server is overloaded or not ready yet. when requesting openai models. Retrying 
+2025-01-07 20:28:26,690 ERROR logging:_log:160 Error The server is overloaded or not ready yet. when requesting openai models. Retrying 
+2025-01-07 20:31:03,019 ERROR logging:_log:160 Error The server is overloaded or not ready yet. when requesting openai models. Retrying 

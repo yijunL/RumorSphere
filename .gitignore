@@ -1,0 +1,16 @@
+*.pkl
+*.csv
+*.json
+# 忽略 Jupyter Notebook 的检查点文件夹
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.png
+*.ipynb
+
+# 忽略 Python 的缓存文件夹
+__pycache__/
+
+# 忽略所有名为 .ipynb_checkpoints 和 __pycache__ 的文件夹
+**/.ipynb_checkpoints/
+**/__pycache__/
+

@@ -1,0 +1,372 @@
+nohup: ignoring input
+/home/liuyijun/miniconda3/envs/hisim/lib/python3.9/site-packages/mesa/time.py:82: FutureWarning: The AgentSet is experimental. It may be changed or removed in any and all future releases, including patch releases.
+We would love to hear what you think about this new feature. If you have any thoughts, share them with us here: https://github.com/projectmesa/mesa/discussions/1919
+  self._agents: AgentSet = AgentSet(agents, model)
+ [0m BMTools is not installed, tools in the simulation environment cannot be used. To install BMTools, please follow the instruction in the README.md file. If you aren't running a *simulation* case with tool, you can ignore this warning.
+initialize neighbor agent...:   0%|          | 0/1000 [00:00<?, ?it/s]initialize neighbor agent...:   7%|▋         | 70/1000 [00:00<00:01, 698.79it/s]initialize neighbor agent...:  18%|█▊        | 180/1000 [00:00<00:00, 931.56it/s]initialize neighbor agent...:  31%|███       | 308/1000 [00:00<00:00, 1087.10it/s]initialize neighbor agent...:  44%|████▍     | 442/1000 [00:00<00:00, 1186.03it/s]initialize neighbor agent...:  58%|█████▊    | 581/1000 [00:00<00:00, 1259.30it/s]initialize neighbor agent...:  73%|███████▎  | 726/1000 [00:00<00:00, 1321.35it/s]initialize neighbor agent...:  88%|████████▊ | 875/1000 [00:00<00:00, 1375.46it/s]initialize neighbor agent...: 100%|██████████| 1000/1000 [00:00<00:00, 1273.17it/s]
+***ROUND:  1  ***
+ [0m Tick tock. Current time: 2022-06-24 22:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 269349.09it/s]
+Retweet. Not legal tweet id: 0
+***get agent message...***
+1.0 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+***get agent message completed...***
+ [0m Mia Schmidt: AI's ability to predict the future is incredible! Excited to see how it evolves. #AIProphecy #FuturePredictions
+ [0m Ryan Chapman: Fascinating how AI is shaping our understanding of the future! Can't wait to see where this technology takes us. #AIProphecy #FuturePredictions
+ [0m Peter King: AI’s predictions can significantly enhance our understanding of complex systems, whether in astronomy or other fields. Exciting times ahead! #AIProphecy #FuturePredictions
+ [0m Quincy Chambers: The idea that AI can predict future events is intriguing! It opens up discussions on how we can leverage this technology for better decision-making and collaboration in the workplace. What are your thoughts? #AIProphecy #FuturePredictions
+ [0m Jalen Martinez: It's amazing to see how AI is not only solving problems but also predicting future events! Excited to see where this technology takes us. #AIProphecy #FuturePredictions
+ [0m Nora Rodriguez: Fascinating to see how AI is not just a tool for solving problems but also predicting the future! It makes me curious about how this will impact the hospitality industry. #AI #FuturePredictions
+ [0m Samara Vasquez: The power of AI to predict major events is truly remarkable! It's all about leveraging data to enhance our understanding of the future. 🔮 #AIProphecy #FuturePredictions
+ [0m Hadley Mendez: Wow, AI is not just about solving problems but also predicting the future! Exciting times ahead. Let's see how this unfolds! #AIProphecy #FuturePredictions
+ [0m Ivan Watkins: Retweets a tweet of [Unknown]: 'AI isn’t just for solving problems—it’s predicting the future. Using advanced algorithms, AI has already forecasted major events like stock crashes, natural disasters, and even political shifts. It’s not magic, it’s data. #AIProphecy #FuturePredictions' with additional statements: This is fascinating! AI's ability to predict future events opens up so many possibilities for innovation..
+ [0m Lucy Rice: AI's ability to predict the future through data is fascinating! 🌟 #AIProphecy #FuturePredictions
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  2  ***
+ [0m Tick tock. Current time: 2022-06-25 10:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 312914.35it/s]
+***get agent message...***
+1.0 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+0.5 Acceptance
+***get agent message completed...***
+ [0m Samara Vasquez: Samara Vasquez replies to [Nora Rodriguez]: I'm curious about how other industries will adapt to AI's predictions. Let's discuss!.
+ [0m Ivan Watkins: Excited about the future possibilities of AI! Its ability to forecast major events using data opens up new avenues for innovation and creativity! #AIProphecy #FuturePredictions
+ [0m Hadley Mendez: Retweets a tweet of [Peter King]: 'AI’s predictions can significantly enhance our understanding of complex systems, whether in astronomy or other fields. Exciting times ahead! #AIProphecy #FuturePredictions' with additional statements: Absolutely! The implications of this technology are immense. Can't wait to see what comes next!.
+ [0m Nora Rodriguez: I'm excited to think about how AI's predictive capabilities can shape the future of hospitality! What changes do others foresee? #AI #HospitalityFuture
+ [0m Jalen Martinez: AI predictions open up new possibilities for businesses to strategize ahead of time. Embracing this technology can lead to more informed decisions and better outcomes! #AIProphecy #FuturePredictions
+ [0m Mia Schmidt: Retweets a tweet of [unknown]: 'AI's ability to predict the future is incredible! Excited to see how it evolves. #AIProphecy #FuturePredictions' with additional statements: Absolutely fascinating how AI can foresee events! What are your thoughts on this?.
+ [0m Lucy Rice: Retweets a tweet of [Hadley Mendez]: 'Wow, AI is not just about solving problems but also predicting the future! Exciting times ahead. Let's see how this unfolds! #AIProphecy #FuturePredictions' with additional statements: Absolutely! The potential impact of AI predictions on various sectors is immense..
+ [0m Peter King: It's fascinating to see how AI not only solves problems but also predicts future events! The implications for various fields, including astronomy, are enormous. #AIProphecy #FuturePredictions
+ [0m Ryan Chapman: The potential of AI to predict future events is astounding! Excited to see how this technology evolves and benefits us all. #AIProphecy #FuturePredictions
+ [0m Jax Watkins: The possibility of AI predicting future events is truly exciting! I'm eager to see how we can harness this technology for better decision-making and collaboration. #AIProphecy #FuturePredictions
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  3  ***
+ [0m Tick tock. Current time: 2022-06-25 22:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 300258.00it/s]
+***get agent message...***
+0.8 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+0.7 Acceptance
+0.7 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+***get agent message completed...***
+ [0m Ryan Chapman: The future of AI in predicting events is bright! It's amazing to think about the possibilities that lie ahead. #AIProphecy #FuturePredictions
+ [0m Ivan Watkins: The implications of AI's predictive capabilities are absolutely mind-blowing. Looking forward to seeing how it revolutionizes industries! #AIInnovation
+ [0m Peter King: The innovations in AI are transforming how we understand and interact with the future. What areas do you think will be impacted the most? #AIProphecy #FuturePredictions
+ [0m Lucy Rice: The future of AI and its predictive capabilities excites me! Looking forward to seeing how it transforms various sectors. #AIProphecy #FuturePredictions
+ [0m Hadley Mendez: The potential of AI in predicting the future opens up so many possibilities! Excited to explore how we can utilize this in our daily lives! #AIProphecy #FuturePredictions
+ [0m Mia Schmidt: What other predictions do you think AI might make in the future? #AIProphecy #FuturePredictions
+ [0m Jax Watkins: AI's predictive capabilities are not only fascinating but can revolutionize sectors like hospitality! What innovations do you foresee? #AI #HospitalityFuture
+ [0m Jalen Martinez: The potential of AI in shaping the future is incredible! Let's continue to explore how it can guide us in our decisions and strategies. #AIProphecy #FuturePredictions
+ [0m Cassian Davis: Retweets a tweet of [Mia Schmidt]: 'Retweets a tweet of [unknown]: 'AI's ability to predict the future is incredible! Excited to see how it evolves. #AIProphecy #FuturePredictions' with additional statements: Absolutely fascinating how AI can foresee events! What are your thoughts on this?.' with additional statements: Absolutely! Exciting to see the future of AI, especially in fields like astronomy. What do you all think will be the next big development?.
+ [0m Jasper Byrd: I'm truly fascinated by the predictions AI can make and how it influences industries like hospitality! What specific impacts do you all foresee? #AI #FuturePredictions
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  4  ***
+ [0m Tick tock. Current time: 2022-06-26 10:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 332380.06it/s]
+***get agent message...***
+0.5 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+0.7 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+***get agent message completed...***
+ [0m Ivan Watkins: The future of AI is truly fascinating! I'm thrilled to see how it can reshape our world and create new opportunities. The possibilities are endless! #AIInnovation #AIProphecy
+ [0m Cassian Davis: Incredible discussions on AI's predictive capabilities! What are some predictions you believe AI will focus on in the future? #AIProphecy #FuturePredictions
+ [0m Ryan Chapman: AI's ability to predict the future opens up so many opportunities! Let's embrace the possibilities and continue to innovate. #AIProphecy #FuturePredictions
+ [0m Jalen Martinez: Retweets a tweet of [Cassian Davis]: 'Retweets a tweet of [Mia Schmidt]: 'Retweets a tweet of [unknown]: 'AI's ability to predict the future is incredible! Excited to see how it evolves. #AIProphecy #FuturePredictions' with additional statements: Absolutely fascinating how AI can foresee events! What are your thoughts on this?.' with additional statements: Absolutely! Exciting to see the future of AI, especially in fields like astronomy. What do you all think will be the next big development?.' with additional statements: Absolutely! I’m eager to see where AI takes us in various fields. Especially curious about developments in astronomy!.
+ [0m Lucy Rice: Lucy Rice replies to [Jasper Byrd]: I think AI's predictions can significantly enhance customer experiences in the hospitality industry! What specific applications do you find most intriguing?.
+ [0m Hadley Mendez: Retweets a tweet of [Jasper Byrd]: 'I'm truly fascinated by the predictions AI can make and how it influences industries like hospitality! What specific impacts do you all foresee? #AI #FuturePredictions' with additional statements: Absolutely! The innovation AI brings to hospitality is just the beginning. What specific changes do you think we will see?.
+ [0m Beckett Ramirez: The advancements in AI predicting the future are truly fascinating! Excited to see how we leverage this potential for innovation! #AIProphecy #FuturePredictions
+ [0m Aisling Garza: I'm thrilled about how AI's predictive capabilities will shape our future! It's such an exciting time for innovation. #AIProphecy #FuturePredictions
+ [0m Jasper Byrd: I'm really curious about how AI's predictive capabilities will shape different industries! What are your thoughts on the most significant changes we might see? #AI #FuturePredictions
+ [0m Samara Vasquez: The potential of AI to predict future events truly opens doors for innovation across many fields! #AIProphecy #FuturePredictions
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  5  ***
+ [0m Tick tock. Current time: 2022-06-26 22:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 324963.51it/s]
+***get agent message...***
+0.8 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+0.5 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+***get agent message completed...***
+ [0m Aisling Garza: Retweets a tweet of [Hadley Mendez]: 'Retweets a tweet of [Jasper Byrd]: 'I'm truly fascinated by the predictions AI can make and how it influences industries like hospitality! What specific impacts do you all foresee? #AI #FuturePredictions' with additional statements: Absolutely! The innovation AI brings to hospitality is just the beginning. What specific changes do you think we will see?.' with additional statements: Absolutely! The innovation AI brings to hospitality is just the beginning. What specific changes do you think we will see?.
+ [0m Hadley Mendez: I'm curious about how AI will change industries like healthcare, education, and entertainment! What are your thoughts on these shifts? #AI #FuturePredictions
+ [0m Beckett Ramirez: I'm incredibly optimistic about how AI will transform our understanding of future events! Let's keep exploring and innovating! #AIInnovation #FuturePredictions
+ [0m Jalen Martinez: AI predictions can significantly enhance business strategies and decision-making! Let's keep exploring the exciting potential of this technology. #AIProphecy #FuturePredictions
+ [0m Ivan Watkins: Retweets a tweet of [Samara Vasquez]: 'The potential of AI to predict future events truly opens doors for innovation across many fields! #AIProphecy #FuturePredictions' with additional statements: Absolutely! The potential of AI is limitless, and I can't wait to see how it transforms our world!.
+ [0m Ryan Chapman: Retweets a tweet of [Beckett Ramirez]: 'The advancements in AI predicting the future are truly fascinating! Excited to see how we leverage this potential for innovation! #AIProphecy #FuturePredictions' with additional statements: Absolutely agree! The possibilities with AI are endless..
+ [0m Sadie Jackson: I'm excited to see how AI will revolutionize industries like education and healthcare in the coming years! What changes do you all foresee in these sectors? #AI #FuturePredictions
+ [0m Cassian Davis: It's truly captivating to explore how AI's predictive capabilities can advance our understanding in fields like astronomy! What developments are you most excited about? #AIProphecy #FuturePredictions
+ [0m Samara Vasquez: Samara Vasquez replies to [Cassian Davis]: Totally agree! AI has immense potential to shape industries. What specific areas do you think will benefit the most?.
+ [0m Lucy Rice: Retweets a tweet of [Samara Vasquez]: 'The potential of AI to predict future events truly opens doors for innovation across many fields! #AIProphecy #FuturePredictions' with additional statements: Absolutely! The innovation AI brings to various fields is incredible. Excited to see more transformations! What areas do you think will be most affected?.
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  6  ***
+ [0m Tick tock. Current time: 2022-06-27 10:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 324235.00it/s]
+***get agent message...***
+0.0 Doubt
+1.0 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+***get agent message completed...***
+ [0m Ivan Watkins: The future of AI is bright! Innovation is just around the corner, and I can't wait to see how it evolves! #AI #FuturePredictions
+ [0m Lucy Rice: Lucy Rice replies to [Hadley Mendez]: I'm curious how specific shifts in healthcare and education will unfold! What specific changes do you foresee?.
+ [0m Aisling Garza: I'm thrilled to see how AI will reshape industries like education and healthcare! The future is looking bright with these innovations! #AI #FuturePredictions
+ [0m Ryan Chapman: The implications of AI predicting the future are exciting! What specific advancements do you think will impact our lives the most? #AIInnovation #FuturePredictions
+ [0m Samara Vasquez: Samara Vasquez replies to [Lucy Rice]: I completely agree! I believe healthcare and finance are two areas that will be drastically impacted by AI innovations. What are your thoughts?.
+ [0m Hadley Mendez: I'm thrilled to dive deeper into how AI's predictions will transform our understanding of so many industries! What specific changes are you all looking forward to? #AI #FuturePredictions
+ [0m Sadie Jackson: Retweets a tweet of [Lucy Rice]: 'Retweets a tweet of [Samara Vasquez]: 'The potential of AI to predict future events truly opens doors for innovation across many fields! #AIProphecy #FuturePredictions' with additional statements: Absolutely! The innovation AI brings to various fields is incredible. Excited to see more transformations! What areas do you think will be most affected?.' with additional statements: Absolutely! I share your excitement about the transformations AI will bring! Looking forward to discussing which areas will be most affected!.
+ [0m Beckett Ramirez: Excited to see how AI continues to revolutionize our understanding of future events! Let's keep pushing boundaries and innovating together! #AIRevolution #Innovation
+ [0m Raina Cooper: I'm eager to see how AI predictions will specifically guide business strategies and decision-making in the near future! What are your thoughts? #AI #FuturePredictions
+ [0m Jax Ramos: Retweets a tweet of [Beckett Ramirez]: 'I'm incredibly optimistic about how AI will transform our understanding of future events! Let's keep exploring and innovating! #AIInnovation #FuturePredictions' with additional statements: Absolutely! The future looks bright with AI, and I can't wait to see the innovations that come out of it..
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  7  ***
+ [0m Tick tock. Current time: 2022-06-27 22:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 288446.74it/s]
+***get agent message...***
+0.5 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+***get agent message completed...***
+ [0m Lucy Rice: Lucy Rice replies to [Hadley Mendez]: I'm excited to see the advancements in AI too! What specific changes are you most looking forward to in various industries?.
+ [0m Samara Vasquez: Samara Vasquez replies to [Ivan Watkins]: I believe healthcare and environmental science will be significantly transformed by AI innovations! What are your thoughts?.
+ [0m Sadie Jackson: Excited to see how AI's predictive capabilities will change the landscape of education! What are your predictions for the future? #AI #Education
+ [0m Jax Ramos: Jax Ramos replies to [Raina Cooper]: I completely agree! AI has so much potential to enhance business strategies, and I'm excited to see how it develops!.
+ [0m Ivan Watkins: Retweets a tweet of [Beckett Ramirez]: 'Excited to see how AI continues to revolutionize our understanding of future events! Let's keep pushing boundaries and innovating together! #AIRevolution #Innovation' with additional statements: Absolutely! The possibilities are endless, and I can't wait to see where AI takes us next!.
+ [0m Aisling Garza: What changes are you most looking forward to with the advancements in AI? Let's keep the conversation going! #FuturePredictions
+ [0m Delaney Carter: I'm thrilled about how AI's predictive capabilities can reshape industries! Looking forward to engaging discussions about which fields will see the most impact. #AIProphecy #FuturePredictions
+ [0m Novah Perkins: AI's ability to predict future events is fascinating! I'm eager to see how it reshapes various industries and fosters creativity! #AI #FuturePredictions
+ [0m Felix Oliver: Felix Oliver replies to [Raina Cooper]: I completely agree, Raina! The potential for AI to guide business strategies is enormous, and I'm excited to see those innovations unfold!.
+ [0m Jesse Vasquez: I'm particularly excited to see how AI will enhance patient care and streamline operations in healthcare! What changes do others envision in this sector? #AI #HealthcareFuture
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  8  ***
+ [0m Tick tock. Current time: 2022-06-28 10:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 254477.85it/s]
+***get agent message...***
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.7 Acceptance
+0.5 Acceptance
+***get agent message completed...***
+ [0m Ivan Watkins: Ivan Watkins replies to [Samara Vasquez]: I completely agree, Samara! The intersection of AI with healthcare and environmental science is particularly fascinating, and I'm excited to see its impact!.
+ [0m Delaney Carter: Delaney Carter replies to [Sadie Jackson]: Absolutely, Sadie! I'm eager to see how AI can personalize learning experiences for students and enhance educational outcomes. What specific changes do you envision?.
+ [0m Lucy Rice: Lucy Rice replies to [Jesse Vasquez]: I share your enthusiasm, Jesse! AI has great potential to transform patient care and improve operational efficiency in healthcare. What specific changes do you think will be most impactful?.
+ [0m Samara Vasquez: So thrilled to see the conversation around AI's potential to predict future events! Let's keep pushing the boundaries of innovation together! #AIRevolution #FuturePredictions
+ [0m Aisling Garza: What areas do you think AI's predictive capabilities will impact the most? Let's discuss! #AI #FuturePredictions
+ [0m Jesse Vasquez: I'm still thinking about how AI's predictive capabilities can revolutionize patient care! What advancements do you all expect in healthcare? #AI #HealthcareFuture
+ [0m Sadie Jackson: Sadie Jackson replies to [Aisling Garza]: I'm looking forward to advancements in AI as well! It's going to be fascinating to see how it transforms education and other sectors. What specific changes do you foresee?.
+ [0m Novah Perkins: Novah Perkins replies to [Jesse Vasquez]: I share your excitement, Jesse! AI's potential in enhancing patient care and streamlining operations is truly promising. What specific changes do you anticipate?.
+ [0m Felix Oliver: Felix Oliver replies to [Raina Cooper]: I believe AI will significantly enhance decision-making in businesses, allowing for more data-driven strategies. It's an exciting time for innovation! #AI #FuturePredictions.
+ [0m Jasper Byrd: I'm excited about the potential of AI to transform industries and the future it holds! What are your predictions? #AI #FuturePredictions
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  9  ***
+ [0m Tick tock. Current time: 2022-06-28 22:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 323111.01it/s]
+***get agent message...***
+0.5 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+1.0 Acceptance
+0.7 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+***get agent message completed...***
+ [0m Lucy Rice: Lucy Rice replies to [Samara Vasquez]: Absolutely, Samara! I also see healthcare and finance as key areas AI will reshape. It's amazing to think about the advancements we're likely to see! #AI #FuturePredictions.
+ [0m Sadie Jackson: I'm thrilled about the transformative potential of AI and how it can personalize learning! Excited to see where this technology takes us! #AI #Education
+ [0m Ivan Watkins: Ivan Watkins replies to [Samara Vasquez]: Absolutely, Samara! I believe that AI has immense potential in both healthcare and environmental science, offering groundbreaking predictions and solutions. What specific advancements are you looking forward to?.
+ [0m Delaney Carter: AI's predictive capabilities are truly fascinating! I'm eager to see how it will transform sectors like education and healthcare. What changes do you expect to see? #AI #FuturePredictions
+ [0m Novah Perkins: Novah Perkins replies to [Jesse Vasquez]: Absolutely, Jesse! The potential for AI to enhance patient care and outcomes is truly exciting. I'm looking forward to seeing what advancements we can expect in the healthcare sector!.
+ [0m Aisling Garza: Aisling Garza replies to [Sadie Jackson]: I foresee AI personalizing learning experiences and providing real-time feedback, transforming how students learn. What changes do you hope to see?.
+ [0m Jesse Vasquez: Jesse Vasquez replies to [Novah Perkins]: I believe AI will significantly improve patient diagnosis accuracy and aid in personalized treatment plans. What do you think could be the biggest change in daily healthcare practices?.
+ [0m Danica Gray: I'm also excited about AI's predictive capabilities! What specific fields do you think will benefit the most? Let's discuss! #AI #FuturePredictions
+ [0m Jasper Byrd: What specific changes do you see AI predicting for various industries? Let's keep the discussion going! #AI #FuturePredictions
+ [0m Samara Vasquez: Samara Vasquez replies to [Ivan Watkins]: Absolutely, Ivan! The intersection of AI with healthcare and environmental science is indeed a game-changer. Looking forward to more innovations in these areas!.
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  10  ***
+ [0m Tick tock. Current time: 2022-06-29 10:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 295290.34it/s]
+***get agent message...***
+0.8 Acceptance
+0.5 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+0.8 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+***get agent message completed...***
+ [0m Ivan Watkins: Ivan Watkins replies to [Aisling Garza]: I believe AI will significantly impact sectors like healthcare and environmental science, among others! What are your thoughts? #AI #FuturePredictions.
+ [0m Samara Vasquez: Samara Vasquez replies to [Ivan Watkins]: I completely agree, Ivan! The advancements AI can bring to healthcare are truly exciting. I'm also curious about how we can leverage AI for environmental solutions. What developments are you most hopeful about?.
+ [0m Lucy Rice: Lucy Rice replies to [Jasper Byrd]: I believe AI will significantly enhance decision-making processes in various sectors, especially in healthcare and finance! What specific changes do you envision?.
+ [0m Novah Perkins: I'm excited to see AI's predictive abilities reshape medicine and education! What other transformations do you see happening? #AI #FuturePredictions
+ [0m Sadie Jackson: I'm curious to see how AI can predict future trends across various industries. Education, in particular, excites me! What are your thoughts? #AI #FuturePredictions
+ [0m Jesse Vasquez: Jesse Vasquez replies to [Novah Perkins]: It's great to see your excitement as well, Novah! I'm particularly curious about how predictive analytics can help prevent complications in patient care. What are your thoughts on that?.
+ [0m Jasper Byrd: Let's continue discussing how AI can transform industries and what changes we can expect in the future! I'm all ears! #AI #FuturePredictions
+ [0m Danica Gray: Danica Gray replies to [Delaney Carter]: I completely agree, Delaney! The potential for AI to transform education and healthcare is immense. What specific changes are you most looking forward to?.
+ [0m Delaney Carter: Delaney Carter replies to [Danica Gray]: I believe education and healthcare will benefit immensely from AI's predictive capabilities! What are your thoughts?.
+ [0m Aisling Garza: Retweets a tweet of [Sadie Jackson]: 'I'm thrilled about the transformative potential of AI and how it can personalize learning! Excited to see where this technology takes us! #AI #Education' with additional statements: Absolutely! The ability of AI to personalize learning can be revolutionary. Let's explore more about its potential!.
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+***ROUND:  11  ***
+ [0m Tick tock. Current time: 2022-06-29 22:00:00
+get fusion factors...:   0%|          | 0/1000 [00:00<?, ?it/s]get fusion factors...: 100%|██████████| 1000/1000 [00:00<00:00, 275832.17it/s]
+***get agent message...***
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+1.0 Acceptance
+1.0 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+0.5 Acceptance
+***get agent message completed...***
+ [0m Lucy Rice: Lucy Rice replies to [Novah Perkins]: I completely agree! AI's predictive capabilities can revolutionize multiple sectors, including finance and healthcare. What specific changes do you think we can expect?.
+ [0m Samara Vasquez: Samara Vasquez replies to [Ivan Watkins]: Great points, Ivan! I'm particularly excited about AI's potential to revolutionize personalized medicine and its role in tackling climate change. What advancements are you most eager to see?.
+ [0m Ivan Watkins: Ivan Watkins replies to [Samara Vasquez]: I'm especially excited about the potential of AI to create personalized healthcare solutions. What specific advancements are you all most hopeful for?.
+ [0m Sadie Jackson: Sadie Jackson replies to [Jasper Byrd]: I see AI enhancing personalized learning, adaptive assessments, and more efficient administrative tasks in education. What are your thoughts?.
+ [0m Jesse Vasquez: Jesse Vasquez replies to [Novah Perkins]: I'm excited about the advancements AI might bring to diagnostics and personalized medicine! What specific changes are you most looking forward to, Novah?.
+ [0m Danica Gray: Danica Gray replies to [Delaney Carter]: I completely agree, Delaney! Education and healthcare have so much potential for positive change with AI. What specific advancements do you find most exciting?.
+ [0m Delaney Carter: Delaney Carter replies to [Danica Gray]: I'm really looking forward to personalized learning experiences and improved healthcare outcomes! What about you?.
+ [0m Aisling Garza: Aisling Garza replies to [Ivan Watkins]: Great points, Ivan! I agree that AI's impact on healthcare and environmental science is promising too. What specific advancements are you most excited about?.
+ [0m Jasper Byrd: Jasper Byrd replies to [Lucy Rice]: Great point, Lucy! I see AI enhancing diagnostics and potentially automating some administrative tasks in healthcare. What specific advancements do you think will be most impactful?.
+ [0m Novah Perkins: Novah Perkins replies to [Jesse Vasquez]: I completely agree, Jesse! Predictive analytics can indeed play a key role in enhancing patient care and preventing complications. I'm excited to see how this develops!.
+***abm_model.step()...***
+***abm_model.step() completed***
+Tweet Database Updated.
+Agent Memory Updated.
+Tweet Pages Updated.
+Tweet Infobox Updated.
+Visible Agents Updated.
+Output to ./output/roe_macro_hybrid.pkl
+ [0m Total spent: $0.20753220000000008
+Output to ./output/roe_macro_hybrid.pkl
