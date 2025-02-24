@@ -1,4 +1,4 @@
-# The Spiral of Silence: Towards Agent-based Simulation of Rumor Propagation
+# The Spiral of Silence: Towards Million-scale Agent-based Dynamic Simulation of Rumor Propagation
 
 # 🤖 Introduction
 RumorAgent is a novel dynamic and hierarchical social network simulation framework designed to model large-scale rumor propagation in social networks. RumorAgent constructs a simulated Twitter environment, where agents can perform actions such as posting, commenting, and retweeting. Through a multi-agent dynamic interaction strategy, we effectively combine agent-based models and LLMs, dynamically determining agent types in each round to improve simulation efficiency. The framework uses a hierarchical collaborative network to build more realistic relationship topologies. Additionally, RumorAgent offers counterfactual experimentation capabilities to explore various hypothetical scenarios, providing valuable insights for policymaking and public opinion management.
