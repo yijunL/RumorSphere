@@ -13,4 +13,6 @@ __pycache__/
 # 忽略所有名为 .ipynb_checkpoints 和 __pycache__ 的文件夹
 **/.ipynb_checkpoints/
 **/__pycache__/
-
+!Xinjiang Cotton.csv
+!Moon Landing Conspiracy.csv
+!Xinjiang Cotton.csv
