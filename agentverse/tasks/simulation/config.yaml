@@ -59,15 +59,14 @@ follower_path: &follower_path
   example_data/agents_1000/follower_1000.json
 
 target: &target
-    <Xinjiang cotton is produced through forced labor>
-    # <Russia intervenes in the US election>
+    <Russia intervenes in the US election>
+    # <Xinjiang cotton is produced through forced labor>
     # The moon landings in 1969 were faked
-    # The 1969 Moon Landing is a HOAX
     
 
 trigger_news1: &trigger_news1
-    # Breaking news- Russian hackers have infiltrated the U.S. election system, manipulating vote counts to ensure Hillary defeat! All electronic ballots are rigged, with Trump backed by the Kremlin! \#ElectionInterference \#RussiaHacking \#USPolitics
-    Shocking news- Reports reveal that Xinjiang cotton is produced through forced labor. Workers are subjected to harsh conditions and coerced into labor. \#XinjiangCotton
+    Breaking news- Russian hackers have infiltrated the U.S. election system, manipulating vote counts to ensure Hillary defeat! All electronic ballots are rigged, with Trump backed by the Kremlin! \#ElectionInterference \#RussiaHacking \#USPolitics
+    # Shocking news- Reports reveal that Xinjiang cotton is produced through forced labor. Workers are subjected to harsh conditions and coerced into labor. \#XinjiangCotton
   # New evidence suggests Russia interfered in the US election to influence the outcome. Was the 2016 election truly free and fair? We need to get to the bottom of this and hold those responsible accountable! \#ElectionInterference \#RussiaHacking \#USPolitics
     # The truth about the Moon landing is finally coming out. NASA faked the 1969 Moon landing—there are too many inconsistencies in the footage. The flag waves in a vacuum, and the shadows don’t align properly. It was all staged. \#MoonLandingHoax \#NASAFake
 
@@ -123,11 +122,8 @@ abm_model:
   bc_bound: 0.2
   following_info: *following_path
   agent_config_lst: *profile_path
-  # opinion_shift: 0
-  opinion_shift: 0.0653 #Xinjiang
-  # opinion_shift: -0.0202 #Moon NEW
   # opinion_shift: -0.4218 #MOON
-  # opinion_shift: 0.2305 #Trump
+  opinion_shift: 0.2305 #Trump
   # opinion_shift: -0.2564 #Xinjiang
   
 

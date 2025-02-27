@@ -88,7 +88,7 @@ class TwitterEnvironment(BaseEnvironment):
         # Get the next agent index
         # print("Get the next agent index...")
         agent_ids = self.rule.get_next_agent_idx(self,core_num=self.core_agent_num)
-        agent_ids = self.abm_model.get_leader_id(num = 10)
+        # agent_ids = self.abm_model.get_leader_id(num = 10)
         # print("Get the next agent index completed")
 
         # recoder the attitude and core agent infos
@@ -151,13 +151,13 @@ class TwitterEnvironment(BaseEnvironment):
         # Update opinion of mirror and other naive agents
         # update naive agents
         if self.abm_model is not None:
-            if(self.cnt_turn>=1):
-                for i in agent_ids:
-                    self.abm_model.update_mirror(self.agents[i].name, -1)
+            # if(self.cnt_turn>=1):
+            #     for i in agent_ids:
+            #         self.abm_model.update_mirror(self.agents[i].name, -1)
             self.abm_model.step(agent_ids)
             # then substitude the value of mirror using LLM results
-            # for i in agent_ids:
-            #     self.abm_model.update_mirror(self.agents[i].name, self.agents[i].atts[-1])
+            for i in agent_ids:
+                self.abm_model.update_mirror(self.agents[i].name, self.agents[i].atts[-1])
 
                 # for i in self.abm_model.get_leader_id():
                 #     self.abm_model.update_mirror(self.agents[i].name, -1)
