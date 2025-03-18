@@ -1,7 +1,7 @@
 # RumorSphere: A Framework for Million-scale Agent-based Dynamic Simulation of Rumor Propagation
 
 # 🤖 Introduction
-RumorAgent is a novel dynamic and hierarchical social network simulation framework designed to model large-scale rumor propagation in social networks. RumorAgent constructs a simulated Twitter environment, where agents can perform actions such as posting, commenting, and retweeting. Through a multi-agent dynamic interaction strategy, we effectively combine agent-based models and LLMs, dynamically determining agent types in each round to improve simulation efficiency. The framework uses a hierarchical collaborative network to build more realistic relationship topologies. Additionally, RumorAgent offers counterfactual experimentation capabilities to explore various hypothetical scenarios, providing valuable insights for policymaking and public opinion management.
+RumorSphere is a novel dynamic and hierarchical social network simulation framework designed to model large-scale rumor propagation in social networks. RumorSphere constructs a simulated Twitter environment, where agents can perform actions such as posting, commenting, and retweeting. Through a multi-agent dynamic interaction strategy, we effectively combine agent-based models and LLMs, dynamically determining agent types in each round to improve simulation efficiency. The framework uses a hierarchical collaborative network to build more realistic relationship topologies. Additionally, RumorSphere offers counterfactual experimentation capabilities to explore various hypothetical scenarios, providing valuable insights for policymaking and public opinion management.
 
 # 💡 Features
 * **Scalability:** Supports simulations with millions of agents, dynamically adjusting to large-scale networks.
@@ -52,11 +52,11 @@ This command will initialize the simulation with the configuration found in agen
 We welcome contributions from the community. If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 # 📝 License
-RumorAgent is distributed under the [MIT License](./LICENSE). You are free to use and modify it for your own projects.
+RumorSphere is distributed under the [MIT License](./LICENSE). You are free to use and modify it for your own projects.
 
 # 📄 Cite
 More details will be released soon.
-<!-- If you use RumorAgent in your research, please cite our work as follows:
+<!-- If you use RumorSphere in your research, please cite our work as follows:
    ```shell
    More details will be released soon.
    ``` -->
