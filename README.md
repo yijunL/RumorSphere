@@ -24,8 +24,8 @@ RumorAgent is a novel dynamic and hierarchical social network simulation framewo
 
 2. Install Conda environment：
     ```shell
-    conda create -n RumorAgent python=3.9
-    conda activate RumorAgent
+    conda create -n RumorSphere python=3.9
+    conda activate RumorSphere
     pip install -e .
     ```
 
