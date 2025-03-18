@@ -43,7 +43,7 @@ RumorSphere is a novel dynamic and hierarchical social network simulation framew
 ### CLI Demo
 To start a simulation using the Command Line Interface (CLI), execute the following command:
    ```shell
-   python -u simulator.py --config_file agentverse/tasks/simulation/config.yaml --output_file messages.json --log_file simulation.log
+   agentverse-simulation --task simulation --ckpt logs/simulation.log
    ```
 This command will initialize the simulation with the configuration found in agentverse/tasks/simulation/config.yaml, output the messages to messages.json, and log the details of the simulation in simulation.log.
 

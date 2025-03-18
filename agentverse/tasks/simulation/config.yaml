@@ -50,7 +50,7 @@ agent_num: &agent_num
   1000
 
 profile_path: &profile_path
-  example_data/agents_1000/profiles_1000_xinjiang.csv
+  example_data/agents_1000/profiles_1000.csv
 
 following_path: &following_path
   example_data/agents_1000/following_1000.json
