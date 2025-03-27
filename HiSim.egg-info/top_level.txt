@@ -1,2 +1,0 @@
-agentverse
-agentverse_command
