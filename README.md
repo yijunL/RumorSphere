@@ -8,9 +8,9 @@ RumorSphere is a novel dynamic and hierarchical social network simulation framew
 
 * **Counterfactual Experiments:** Simulate hypothetical scenarios and causal relationships for intervention strategies.
 
-* **Multi-agent Dynamic Interaction Strategy:** : Differentiates between core and ordinary agents dynamically for efficient simulation.
+* **Multi-agent Dynamic Interaction Strategy:** Differentiates between core and ordinary agents dynamically for efficient simulation.
 
-* **Hierarchical Collaborative Network:** Enhances local community structures, fostering faster rumor propagation.
+* **Hierarchical Resonance Network:** Enhances local community structures, fostering faster rumor propagation.
 
 # 🚀 Getting Started
 
