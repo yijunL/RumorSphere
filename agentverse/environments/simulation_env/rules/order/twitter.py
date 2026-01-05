@@ -41,8 +41,9 @@ class TwitterOrder(BaseOrder):
 
         if(len(atts)==100):
             min_fan = 15
-        elif(len(atts)==100):
+        elif(len(atts)==1000):
             min_fan = 100
+            
             
 
         
