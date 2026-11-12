@@ -47,6 +47,8 @@ To start a simulation using the Command Line Interface (CLI), execute the follow
    ```
 This command will initialize the simulation with the configuration found in agentverse/tasks/simulation/config.yaml, output the messages to messages.json, and log the details of the simulation in simulation.log.
 
+## Acknowledgements
+The RumorSphere system is built on [xymou/HiSim](https://github.com/xymou/HiSim), many thanks to xymou for the open-source resource.
 
 # 🤝 Contributing
 We welcome contributions from the community. If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
